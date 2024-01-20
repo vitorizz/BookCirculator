@@ -1,0 +1,21 @@
+Book [title="Zimbalist", author=Roy Malan, type=19.95, isbn=1574670913, genre=MRB, year=1905]
+Book [title="Carney Art - A Biography", author=Michael Seth Starr, type=11.95, isbn=1557835659, genre=MTV, year=1905] ==>
+Book [title="Carney Art - A Biography", author=Michael Seth Starr, type=11.95, isbn=1557835659, genre=MTV, year=1905] ==>
+Book [title="Modern Amazons: Warrior Women on Screen", author=Dominique Mainon & James Ursini, type=19.95, isbn=1879103272, genre=MTV, year=1905] ==>
+Book [title="You're Not Old Enough Son", author=Barry Atkinson, type=19.95, isbn=1887664688, genre=MTV, year=1905] ==>
+Book [title="Horror Film Directors 1931 - 1990", author=Dennis Fischer, type=85.5, isbn=9780899506, genre=MTV, year=1991] ==>
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, type=7.95, isbn=879101490, genre=MRB, year=1994] ==>
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, type=7.95, isbn=879101490, genre=MRB, year=1994] ==>
+Book [title="Mingus Charles Two Memoirs", author=Janet Coleman & Al Young, type=7.95, isbn=879101490, genre=MRB, year=1994] ==>
+Book [title="Lewis Jerry - Filmography of The Comic", author=James L. Neibaur & Ted Okuda, type=44.95, isbn=9780899509, genre=MTV, year=1994] ==>
+Book [title="Hammer Films - An Exhaustive Filmography", author=Tom Johnson & Deborah Del Vecchio, type=66.95, isbn=9780786400, genre=MTV, year=1995] ==>
+Book [title="Official Mickey Mouse Club Book", author=Lorraine Santoli, type=1.99, isbn=786880422, genre=MTV, year=1995] ==>
+Book [title="The 2nd Zimbalist", author=Roy Malan, type=23.95, isbn=1574670000, genre=MRB, year=1915] ==>
+Book [title="Baseball - One-Armed Wonder: Pete Gray Wartime Baseball and the American Dream", author=William C. Kashatus, type=26.96, isbn=9780786400942, genre=SSM, year=1995] ==>
+Book [title="The Murdur!", author=Roy Malan, type=52.9, isbn=15444670000, genre=MRB, year=1918] ==>
+Book [title="Hitchcock's London: A Reference Guide to Locations", author=Gary Giblin, type=19.95, isbn=188766467, genre=MTV, year=1905] ==>
+Book [title="Zimbalist", author=Roy Malan, type=19.95, isbn=1574670913, genre=MRB, year=1905] ==>
+Book [title="Zimbalist", author=Roy Malan, type=19.95, isbn=1574670913, genre=MRB, year=1905] ==>
+Book [title="Zimbalist", author=Roy Malan, type=19.95, isbn=1574670913, genre=MRB, year=1905] ==>
+Book [title="Zimbalist", author=Roy Malan, type=19.95, isbn=1574670913, genre=MRB, year=1905] ==>
+===> Head
